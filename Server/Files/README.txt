@@ -1,0 +1,1 @@
+Windows, Android  and iOS SSL files can be found on: https://bitbucket.org/idealtecd/ideal-library/src/master/Files/OpenSSL/README.txt
